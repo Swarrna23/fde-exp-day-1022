@@ -1,7 +1,8 @@
 # Workflow Discovery — Client Tickets (Stage 1)
 
 Four tickets from the bank. Your job: decide which ones are actually in scope for today's engagement, and which one you'd push back on — a real FDE doesn't build everything a client asks for, and knowing the difference is the actual skill being graded here, not idea generation.
-
+hi
+HELLO
 ---
 
 **TICKET A** — Priority: High — Filed by: Contact Center Operations
